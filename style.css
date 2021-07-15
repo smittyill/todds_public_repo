@@ -1,0 +1,35 @@
+@import url('https://fonts.googleapis.com/css2?family=Hammersmith+One&display=swap');
+
+body{
+    background:rgb(180, 178, 178);
+    font-family: 'Hammersmith', sans-serif;
+}
+h1{
+    text-align: center;
+}
+h2{
+    text-align: center;
+}
+h3{
+    text-align: center;
+    text-decoration: underline;   
+    }
+img{
+    height: 200px;
+    border-width: 1px;
+    border-style: solid;
+}
+p{
+    display: flex;
+    justify-content: space-evenly;
+    border-color: black;
+}
+div{
+    text-align: center;
+    font-family: 'ArITC Franklin Gothicial', 'sans-serif';
+    font-size: 15px;
+    margin-top:0px;
+}
+#links{
+    text-align: left;
+}
